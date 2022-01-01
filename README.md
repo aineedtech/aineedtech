@@ -6,7 +6,7 @@
 
 <hr style="border:1.5px solid gray"> </hr>
 
-I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface on a daily basis. But I also find creating things and problem solving satisfying, so I decided to learn to code to build cool things with it!
+I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface on a daily basis. But I also find creating things and problem solving satisfying, so I decided to learn to code and build cool things with it!
 
 My goal is to brush up on HTML and CSS before I move on to JavaScript and other programming languages. Other than Web Development, I am also interested in Data Science and have been enjoying Kaggle short courses. Right now I am working on HTML/CSS challenges from Frontend Mentor and polishing up my Python.
 
