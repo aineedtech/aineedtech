@@ -1,12 +1,12 @@
 ### <div align="center">Hi there, I'm Aini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
 <p align="center">
-  My name rhymes with panini and also fettuccine 😊
+  My name rhymes with panini and also fettuccine 😋
 </p>
 
 <hr style="border:1.5px solid gray"> </hr>
 
-I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface on a daily basis. But I also find creating things and problem solving satisfying, so I decided to learn to code and build cool things with it!
+I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface during my day-to-day job. I find creating things and problem solving satisfying, hence I decided to learn to code and build cool things with it!
 
 My goal is to brush up on HTML and CSS before I move on to JavaScript and other programming languages. Other than Web Development, I am also interested in Data Science and have been enjoying Kaggle short courses. Right now I am working on HTML/CSS challenges from Frontend Mentor and polishing up my Python.
 
