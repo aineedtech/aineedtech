@@ -1,24 +1,27 @@
 ### <div align="center">Hi there, I'm Aini <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </div>
 
 <p align="center">
-  My name rhymes with panini and also fettuccine 😋
+  ⚒ Geoscientist turned Code Lover 💻
 </p>
 
 <hr style="border:1.5px solid gray"> </hr>
 
-I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface during my day-to-day job. I find creating things and problem solving satisfying, hence I decided to learn to code and build cool things with it!
+Passionate about unraveling the Earth's mysteries and looking for ways to bring in technology into my day-to-day job, from creating cool web apps to applying machine learning and AI. 
 
-My goal is to brush up on HTML and CSS before I move on to JavaScript and other programming languages. Other than Web Development, I am also interested in Data Science and have been enjoying Kaggle short courses. Right now I am working on HTML/CSS challenges from Frontend Mentor and polishing up my Python.
+When I'm not coding, you'll find me learning German, hitting the pavement for a run, or getting lost in a good book (currently at 87 consecutive days!). 
 
-- 👩‍💻 I’m currently learning HTML, CSS, and Python.
-- 🤓 I also geek out on geophysics, language learning, and event planning.
-- 📫 You can reach me at <a href="https://twitter.com/aineedtech">aineedtech</a>.
-- ⚡ Fun fact: My first programming language is Bash!
+Let's connect and create together on this exciting journey. Find me at <a href="https://twitter.com/aineedtech">aineedtech</a> on Twitter.
+
 
 
 
 
 <!--
+I'm a geoscientist from Malaysia. I look at rocks and the earth subsurface during my day-to-day job. I find creating things and problem solving satisfying, hence I decided to learn to code and build cool things with it!
+- 👩‍💻 I’m currently learning HTML, CSS, and Python.
+- 🤓 I also geek out on geophysics, language learning, and event planning.
+- 📫 You can reach me at <a href="https://twitter.com/aineedtech">aineedtech</a> on Twitter
+- ⚡ Fun fact: My first programming language is Bash!
 **aineedtech/aineedtech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
